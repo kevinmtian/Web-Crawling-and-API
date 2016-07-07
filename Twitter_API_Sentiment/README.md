@@ -16,4 +16,4 @@ Problem 5: Find the Happiest State
 Problem 6: Find Top ten hash tags
 
 
-The full description of this assignment can be found [here](http://htmlpreview.github.io/?https://github.com/auroraguorui/Web-Scraping-and-APIs/blob/master/Description.html)
+The full description of this assignment can be found [here](http://htmlpreview.github.io/?https://github.com/auroraguorui/Web-Scraping-and-API/blob/master/Twitter_API_Sentiment/Description.html)

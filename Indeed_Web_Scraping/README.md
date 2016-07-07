@@ -8,4 +8,4 @@ Tasks include:
 
 3: Visualize the findings using ggplot2
 
-4: Present the [results]()
+4: Present the [results](http://htmlpreview.github.io/?https://github.com/auroraguorui/Web-Scraping-and-API/blob/master/Indeed_Web_Scraping/indeed/visualization/index.html)
