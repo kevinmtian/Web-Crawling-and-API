@@ -5,7 +5,7 @@ Tasks include:
 
 Problem 1: Get Twitter Data using Twitter REST API, see twitterstream.py
 
-Problem 2: Derive the sentiment of each tweet, see twitter_sentiment.py
+Problem 2: Derive the sentiment of each tweet, see tweet_sentiment.py
 
 Problem 3: Derive the sentiment of new terms, see term_sentiment.py
 
